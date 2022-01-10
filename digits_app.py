@@ -4,6 +4,7 @@ Created on Sat Jan  8 00:26:27 2022
 @author: hoain
 """
 import streamlit as st
+import streamlit_drawable_canvas
 from streamlit_drawable_canvas import st_canvas
 import numpy as np
 import cv2  
